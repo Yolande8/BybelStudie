@@ -1,0 +1,51 @@
+body{
+    background-color: #EAEAEA;
+    padding: 10px;
+}
+.cinzel-1{
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  padding-right: 10px;
+}
+.exo-2-1{
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  padding: 5px;
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.cinzel-2{
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  background-color: #66D2CE;
+  border-radius: 10px;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 150px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 10px;
+}
+.onder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    background-color: #66D2CE;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #2DAA9E;
+}
